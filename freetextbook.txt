@@ -2,8 +2,8 @@
 
 ====What are open course materials?====
 
---
-
+Open Educational Resources (OER) are freely accessible, openly licensed documents and media that are useful for teaching, learning, educational, assessment and research purposes. Although some people consider the use of an open format to be an essential characteristic of OER, this is not a universally acknowledged requirement.
+The development and promotion of open educational resources is often motivated by a desire to curb the commodification of knowledge and provide an alternate or enhanced educational paradigm. (Wikipedia)
 ====What is the difference between free and open?====
 
 --
