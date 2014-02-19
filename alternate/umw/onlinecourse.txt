@@ -1,0 +1,24 @@
+
+<markdown>
+## Running an Online Course
+</markdown>
+
+{{:online.jpg?300|}}
+
+<markdown>
+### Do I work through Global Campus or can I just build this in Angel?
+
+If you wish to teach a 100% online course after Spring 2014, you *may* need to work through [Global Campus](http://teach.wsu.edu/OnlineCourses/). The process you need to follow is outlined [here](http://teach.wsu.edu/OnlineCourses/develop/process.aspx). We are in the process of discussing this policy.
+
+If you have a required meeting on campus for your course, no matter what its length, you can choose to offer your course as a local online course. Examples of required meeting include any meeting where attendance is taken or a grade is given -- a proctored exam, a study session, a required office hours visit.
+
+### Blended Courses
+
+If you have some face-to-face components to your class, your class is *blended*. There is more information about blended courses [here](?id=hybridcourse). 
+
+If you would like local campus support for your blended course, contact [Michael Caulfield](mailto:michael.caulfield@vancouver.wsu.edu). 
+
+*Graphic Courtesy Giulia Forsythe, CC-BY*
+</markdown>
+
+Questions? Leave a comment below:

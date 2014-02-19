@@ -1,0 +1,13 @@
++ Draft
++ Google Docs
++ Verb Cheat Sheet
+
+### Citation Generation
+
+  * Zotero
+  * CitationMaker
+  * Bibliobouts
+  * EasyBib
+  * OttoBib
+
+

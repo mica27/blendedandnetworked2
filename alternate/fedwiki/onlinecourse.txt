@@ -1,0 +1,5 @@
+=====Online Course=====
+
+This is the fedwiki version with a namespaced photo.
+
+{{:alternate:fedwiki:photo2007.jpg?300|}}
