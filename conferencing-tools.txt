@@ -1,9 +1,9 @@
-<markdown>
-## Conferencing 
+
+=====Conferencing======
 
 Live conferencing is simultaneously one of the most disaster prone areas of distance education, but potentially also one of the most rewarding. 
 
-### Technologies supported by WSU
+===Technologies supported by WSU===
 
 * Tegrity
 * Collaborate
@@ -12,5 +12,3 @@ Live conferencing is simultaneously one of the most disaster prone areas of dist
 
 * Google Hangouts
 * Skype
-
-</markdown>
