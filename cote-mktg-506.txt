@@ -1,4 +1,4 @@
-<markdown>
+
 ## Joe Cote's MKTG 506 Class
 
 Joe has introduced a number of innovations into his courses over the years. 
@@ -11,4 +11,3 @@ One of the simpler things Joe has done is to produce a series of videos on "key 
 
 ### The End in Mind
 
-</markdown>
