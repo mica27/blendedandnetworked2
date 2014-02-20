@@ -5,4 +5,3 @@ It's a closed discussion.
 # It was open.
 # Now it's closed
 
-~~DISCUSSION~~
